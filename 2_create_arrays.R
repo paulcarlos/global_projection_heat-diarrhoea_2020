@@ -28,7 +28,7 @@ for (i in 1:length(files)) {
         z[,,as.character(l)] <- z[,,as.character(l)] + val
       }
     }
-    saveRDS() #save on specific location
+    saveRDS(z,) #save on specific location
   }}
   
   
