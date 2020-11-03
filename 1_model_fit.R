@@ -1,3 +1,7 @@
+##################################################################################
+# fitting Foreman et al and Mathers-Loncar models to enteric infection mortality 
+##################################################################################
+
 # countries
 iso <- c("JPN","AFG","AGO","ALB","ARE","ARG","ARM","AUS","AUT","AZE","BDI","BEL","BEN","BFA","BGD","BGR","BHR",
          "BHS","BIH","BLR","BLZ","BOL","BRA","BRB","BRN","BTN","BWA","CAF","CAN","CHE","CHL","CHN","CIV",
