@@ -1,4 +1,8 @@
-# country masks from ISIMIP
+####################################################
+# creating arrays of death percentages per country
+####################################################
+
+# requires country masks from ISIMIP
 
 # aetiologies
 rei1 <- c("Shigella","Cholera","Non-typhoidal Salmonella","Enteropathogenic E coli","Enterotoxigenic E coli",
