@@ -1,4 +1,4 @@
-# projection_diarrhoea
+# Projections of Global Temperature-related Diarrhoea Mortality
 
 For the study:
 
